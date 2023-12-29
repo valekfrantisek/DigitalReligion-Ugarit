@@ -97,13 +97,13 @@ CALLOT, Olivier 2011. *Les sanctuaires de l’acropole d’Ougarit, Les temples 
 
 SCHAEFFER, Claude F.–A. 1929. Les fouilles de Minet-El-Beida et de Ras Shamra (campagnes du printemps 1929). *Syria* 10/4: 285–297.
 
-SCHAEFFER, Claude F.–A. 1931. Les fouilles de Minet el-Beida et de Ras-Shamra. Deuxième campagne (printemps 1930). Rapport sommaire. *Syria* 12/1: 1–14.
+--. 1931. Les fouilles de Minet el-Beida et de Ras-Shamra. Deuxième campagne (printemps 1930). Rapport sommaire. *Syria* 12/1: 1–14.
+
+--. 1932. Les fouilles de Minet-el-Beida et de Ras-Shamra. Troisième campagne (printemps 1931). Rapport sommaire. *Syria* 13/1: 1–27.
+
+--. 1935. Les fouilles de Ras Shamra (Ugarit). Sixième campagne (printemps 1934). Rapport sommaire. *Syria* 16/2: 141–176.
 
 SCHAEFFER DE CHALON, Irène & Antoinette SCHAEFFER-BOEHLING (eds.) 1978. *Ugaritica VII*. Mission de Ras Shamra XVIII. Paris/Leiden: Librairie orientaliste Paul Geuthner/E. J. Brill.
-
-SCHAEFFER, Claude F.–A. 1932. Les fouilles de Minet-el-Beida et de Ras-Shamra. Troisième campagne (printemps 1931). Rapport sommaire. *Syria* 13/1: 1–27.
-
-SCHAEFFER, Claude F.–A. 1935. Les fouilles de Ras Shamra (Ugarit). Sixième campagne (printemps 1934). Rapport sommaire. *Syria* 16/2: 141–176.
 
 VÁLEK, František 2023. *Life, Society, and Politics in Relation to Religion at Ugarit in the Late Bronze Age.* PhD Thesis. Prague: Charles University (at the time yet avaiting defense!)
 
