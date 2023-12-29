@@ -2,7 +2,7 @@
 
 This part of repository is dedicated to the 3D reconstruction of the Temple of Baal located at the Acropolis of Ugarit (TB in the plan)
 
-[!Plan of the Sacred Places at Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/sacred_places_map.png)
+![Plan of the Sacred Places at Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/sacred_places_map.png)
 
 ## Sources
 
@@ -85,7 +85,7 @@ So far, we have taken the designation of the Temple of Baˁal for granted, but a
 There are two basic reasons for this identification. Firstly, several stelae (e.g., [Baˁal au Foudre](https://collections.louvre.fr/en/ark:/53355/cl010140542) or the above-mentioned [Stela of Mami](https://collections.louvre.fr/en/ark:/53355/cl010137899)) and figures depicting Baˁal  were discovered either in the temple precinct or its vicinity.  Second, Ugaritic texts testify to the presence of a temple of Baˁal at Ugarit,  and some of them include feeble descriptive hints that may correspond to the archaeological material such as the presence of the tower. In addition, Baˁal was also the most prominent deity at Ugarit, both in cult and in narratives, which makes the attribution of the most prominent temple to him very plausible.
 
 **Schematic plan of the Temple of Baˁal.** Drawn by the author after Callot (2011: fig. 28):
-[!Schematic plan of the Temple of Baˁal. Drawn by the author after Callot 2011: fig. 28.](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/Temple%20of%20Baal_plan.png)
+![Schematic plan of the Temple of Baˁal. Drawn by the author after Callot 2011: fig. 28.](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/Temple%20of%20Baal_plan.png)
 
 ## Bibliography
 
