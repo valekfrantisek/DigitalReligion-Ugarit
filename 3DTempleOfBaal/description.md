@@ -14,11 +14,12 @@ The model has been created using free and open source software [Blender](https:/
 
 Materials and textures for the model were taken from [Poly Haven](https://polyhaven.com/) repository. This repository is also open source and therefore freely reusable. However, these materials must remain only provisional, as they do not correspond with the ancient reality. More work is needed in order to create textures and materials that would better reflect the material reality of ancient Ugarit and the Eastern Mediterranean.
 
-## Renders
+### Preview Renders
 
 As a preview of the model, following renders were created.
 
-
+![Render 1](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/ToB_render_1.png)
+![Render 2](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/ToB_render_2.png)
 
 ## Presentation of the model
 
@@ -26,31 +27,42 @@ This work has been presented at EASR 2023 in Vilnius (*20th Annual Conference of
 
 ## Future Plans
 
+So far, the 3D reconstruction of the Temple of Baˁal in Blender is only a little step in making it useful. For now, these images and more renders can be used, e.g., in publications for free. However, I believe there is more potential to it.
+
 ### Unreal Engine Implementation
+
+In the relatively forseeable future, I would like to create an accessible "game mode" for the Temple of Baˁal. For this, [Unreal Engine](https://www.unrealengine.com/en-US) can be used quite easily. So far, I have only created a simple scene, which illustrates the basics that can be done with such a model. The surrounding buildings are there only for illustration, only feebly approximating the surrounding excavations.
+
+In this case, some materials have been replaced, making use of the [Quixel Bridge](https://quixel.com/bridge) repository. This repository has also provided some additional object for the scene (bones in the fireplace, ladders, pebbles, vegetation, etc.).
+
+**Preview video on YouTube** (click on the image)
 
 [![Temple of Ugarit in Unreal Engine](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/ToB_UE_YouTube_img.png)](https://youtu.be/k8HUyTk0joc)
 
-
-mention Quixel Bridge
-
 ### VR implementation
 
-## Description of the Temple of Baˁal
+The next possible step after creating a solid scene in Unreal Engine is to transfer it into a virtual reality scene. Relatively accessible hardware (e.g., Oculus by Meta) can be used to explore such a scene. The VR experience then allows even more to immerse oneself into the ancient world.
+
+### 3D Reconstruction of Ugarit
+
+In the long run, I hope it will be possible to create a more detailed reconstruction of the whole Ugarit (or, at least, of its excavated parts). This, however, is a project that would require a broader cooperation of 3D designers and archaeologists. In case there is anyone willing to cooperate, please, contact me at frantisek.valek(at)upce.cz.
+
+# Description of the Temple of Baˁal
 
 The following description has been taken from my dissertation on the religion at Ugarit (Válek 2023: 96-102). However, only basic references are included here.
 
 So far, both the archaeological and textual evidence suggest that the most important cultic centre at Ugarit during the final phase of its existence was a large temple at the acropolis (see the plan above, TB) dedicated to Baˁal. This temple, together with the Temple/Terrace of Dagan, is so far the best explored and published, thanks to Callot (2011).
 
-### Excavations and History
+## Excavations and History
 The Temple of Baˁal was unearthed during the first campaign in 1929 after Schaeffer moved from the port city in Minet el-Beida to the tell. The structure was at first not recognised as a temple but as a palace (Schaeffer 1929: 294-297).  However, the mistake was realised shortly afterwards and following reports refer to this structure as a temple. The excavations in the area of this temple continued until 1933. Only in 1975 a more detailed survey of the unearthed area was done. Thanks to it, some details that are now lost due to the disintegration of the structure are recorded. Systematic excavations continued from 1988 to 2005. For a more detailed summary of the history of excavations, see Callot (2011: 23-25).
 
 History and development of the structure are difficult to establish (see Callot 2011: 60-64). There seem to be two main architectural phases, both of which ended in destruction. Construction of the first dates back to the 19th/18th century BC. The second phase utilised the foundations of the first, which allows us to reconstruct the outline of the first phase. The same cannot be said about the annexes which were possibly part of the temple precinct only during the final phase. The beginning of the construction of the second phase dates to the reign of ˁAmmiṯtamru III, after 1250, when Ugarit was presumably hit by a strong earthquake and the temples at the acropolis were damaged and needed reconstruction.  The reconstruction seems to have been total, except for the foundations and continued with the following kings of Ugarit. The second phase came to an end together with the city at the beginning of the 12th century BC. The archaeological evidence from the 2nd phase is complemented with abundant textual material. 
 
-### Structure and Reconstruction
+## Structure and Reconstruction
 
 Because the structure of the first phase eludes us almost completely, we will focus on the structure of the temple during the second phase after its reconstruction. Both were probably quite similar.
 
-#### Temple
+### Temple
 
 (For more details and references, see Callot 2011: 39-48 or Yon 2006: 106-110.)
 
@@ -64,7 +76,7 @@ The cella was, at least according to the remains, more complex than the vestibul
 
 Callot reconstructs three upper levels of the temple. While the presence of upper floors seems quite probable, and this temple was most likely a “temple tower” – based on available texts, the presence of the staircase, or clay models of temples/houses from northern Syria – the exact reconstruction is speculative. The height of the temple is estimated to be between eighteen and twenty meters. Since the acropolis of the tell was some twenty meters above the surroundings and about 30 meters above sea level, the temple towered very high. It has been suggested that it might have functioned as a kind of lighthouse or landmark for the sailors whose relationship to the temple and its deity is supported by rich finds of votive anchors discovered in the temple precinct (see Schaeffer de Chalon & Schaeffer-Boehling 1978: 371-381). The temple was probably constructed similarly to the domestic architecture at Ugarit (see, e.g., Callot 1983, Yon, Lombard & Reniso 1987, or Callot 1994) – using wooden armature and fillings of stone.
 
-#### Courtyards
+### Courtyards
 
 (For more details and references, see Callot 2011: 37-39.)
 
@@ -72,19 +84,19 @@ The temple was accessed through a portal from the main courtyard (“court A” 
 
 The eastern part of the main court was probably isolated from the second courtyard (“court B” in fig. 17) by a wooden fence, of which only a small part of support remains. This walled courtyard was no more than 6 m wide in its widest part, and it was stretched alongside the temple. It was probably of auxiliary importance, used, for example, for gathering animals before sacrifices, but this remains speculative (Callot 2011: 56).  In its southeast corner, there might have been an additional entrance through which the sacrificial animals were brought in.
 
-#### Annexes
+### Annexes
 
 (For more details and references, see Callot 2011: 36-39 and 55.)
 
 There are two annexed buildings which seem to be connected directly to the temple precinct. We have already mentioned the western annexes from which there was access to the main courtyard. These annexes consisted of three rooms and were possibly used by cultic personnel. In the southeast corner of the main courtyard, there was a second annexe, which is unfortunately severely damaged, and even its interpretation as an annexe to the temple is not without difficulties.
 
-#### Access
+### Access
 
 (For more details and references, see Callot 2011: 36-37.)
 
 The temple precinct was probably accessible through three entrances. The main gate was connected to the street leading west to the Royal Palace (RP in the plan). This street was rather steep in its final part and finished in a stairway. The main gate itself included several stairs. The second access was through the western annexes, which were also accessible through the street leading to the palace. The third entrance was probably located on the east, leading to the second courtyard. Coming from the palace, one might have continued east along the southern wall of the temple precinct to a street leading to the Temple/Terrace of Dagan along the House of the High Priest (so-called Rue de la bibliothéque) or north along the wall of the western annexes to the Lower City.
 
-### Dedication to Baˁal
+## Dedication to Baˁal
 
 So far, we have taken the designation of the Temple of Baˁal for granted, but at least a short discussion on the identification of the principal inhabitant of this temple seems appropriate. The first part of the [Stela of Mami](https://collections.louvre.fr/en/ark:/53355/cl010137899) has already been discovered during the first campaign, and the deity was shortly afterwards identified as Seth/Baˁal of Ṣapan, which has led to initial identification of the city as Ṣapan (see Schaeffer 1931: 10), a mistake that has been realised in shortly afterwards (see Schaeffer 1932: 24-27).  Hand in hand with other numerous Egyptian/Egyptianizing discoveries, the structure was firstly designated as “temple égyptien”, “quartier égyptien”, or “salle égyptienne”  then simply “temple” or “grand temple”  when finally, its attribution to Baˁal came in 1934 (Schaeffer 1935: 155).
 
@@ -95,11 +107,15 @@ There are two basic reasons for this identification. Firstly, several stelae (e.
 
 ## Bibliography
 
-CALLOT, Olivier 1983. *Une maison à Ougarit: Étude d’architecture domestique.* Paris, ERC.
+CALLOT, Olivier 1983. *Une maison à Ougarit: Étude d’architecture domestique.* RSO I. Paris, ERC.
 
---. 1994. *La tranchée “ Ville Sud ”, Études d’architecture domestique.* Paris: ERC.
+--. 1994. *La tranchée “ Ville Sud ”, Études d’architecture domestique.* RSO X. Paris: ERC.
 
 --. Olivier 2011. *Les sanctuaires de l’acropole d’Ougarit, Les temples de Baal et de Dagan.* RSO XIX. Lyon: Maison de l’Orient et de la Méditerranée.
+
+HAYDAR, Jamal, et al. 2013. Rapport préliminaire sur les activités de la mission archéologique syro-française de Ras Shamra – Ougarit en 2009 et 2010 (69e et 70e campagnes). *Syria* 90: 439–478.
+
+MATOÏAN, Valérie (ed.) 2021. *Ougarit, un anniversaire. Bilans et recherches en cours.* RSO XXVIII Leuven: Peeters.
 
 SCHAEFFER, Claude F.–A. 1929. Les fouilles de Minet-El-Beida et de Ras Shamra (campagnes du printemps 1929). *Syria* 10/4: 285–297.
 
@@ -115,10 +131,12 @@ VÁLEK, František 2023. *Life, Society, and Politics in Relation to Religion at
 
 YON, Marguerite 2006. *The City of Ugarit at Tell Ras Shamra.* Winona Lake, Indiana: Eisenbrauns.
 
-YON, Marguerite, Pierre LOMBARD & Margo RENISO 1987. L’organisation de l’habitat: les maisons A, B et E. In YON, Marguerite (ed.) 1987. *Le Centre de la Ville, 38e-44e campagnes (1978-1984).* Paris: ERC.: 11–128.
+YON, Marguerite, Pierre LOMBARD & Margo RENISO 1987. L’organisation de l’habitat: les maisons A, B et E. In YON, Marguerite (ed.) 1987. *Le Centre de la Ville, 38e-44e campagnes (1978-1984).* RSO III. Paris: ERC.: 11–128.
 
 ## Images
 
 For images in [the images directory](https://github.com/valekfrantisek/DigitalReligion-Ugarit/tree/main/3DTempleOfBaal/images), the following sources are relevant:
 
-!!! ADD DESCRIPTION!!!
+[The plan of Sacred Places at Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/sacred_places_map.png) has been drawn by the author after several sources, namely: Yon 2006: figs. 1, 18, 20, 25, 30, 33, 37, and 44, Haydar et al.: fig. 1, figures in Callot 1994, Callot 2011: figs. 28 and 58, RSO Matoïan 2021: fig. 2, and a satellite image of the site from [Mapy.cz](https://mapy.cz/) from May 2020.
+
+[Schematic plan of the Temple of Baˁal](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/Temple%20of%20Baal_plan.png) has been drawn by the author after Callot 2011: fig. 28.
