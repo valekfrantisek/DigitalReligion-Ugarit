@@ -10,9 +10,9 @@ The reconstruction has been based on the publication of French archaeologist Oli
 
 ## 3D Reconstruction
 
-The model has been created using free and open source software [Blender](https://www.blender.org/). The model itself is available in this repository, you can download it using this [link](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/Temple_of_Baal_blank.blend). This model is devoid of any materials and textures.
+The model has been created using free and open source software [Blender](https://www.blender.org/). The model itself is available in this repository, you can download it using this [link](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/Temple_of_Baal_blank.blend) for a blank model without any materials; or this [link](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/Temple_of_Baal_with_materials.blend) for model with embeded materials.
 
-Materials and textures for the model were taken from [Poly Haven](https://polyhaven.com/) repository. This repository is also open source and therefore freely reusable.
+Materials and textures for the model were taken from [Poly Haven](https://polyhaven.com/) repository. This repository is also open source and therefore freely reusable. However, these materials must remain only provisional, as they do not correspond with the ancient reality. More work is needed in order to create textures and materials that would better reflect the material reality of ancient Ugarit and the Eastern Mediterranean.
 
 ## Presentation of the model
 
