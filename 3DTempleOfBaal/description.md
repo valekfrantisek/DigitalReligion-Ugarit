@@ -3,6 +3,8 @@ This part of repository is dedicated to the 3D reconstruction of the Temple of B
 
 ![Plan of Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/images/Tell_topography_plan.png)
 
+<img src="https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/images/Tell_topography_plan.png" width="500">
+
 
 
 
