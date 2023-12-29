@@ -14,6 +14,9 @@ The model has been created using free and open source software [Blender](https:/
 
 Materials and textures for the model were taken from [Poly Haven](https://polyhaven.com/) repository. This repository is also open source and therefore freely reusable. However, these materials must remain only provisional, as they do not correspond with the ancient reality. More work is needed in order to create textures and materials that would better reflect the material reality of ancient Ugarit and the Eastern Mediterranean.
 
+*the model in Blender environment (mesh/textured)*
+![model in Blender environment](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/Blender_screen_et_mesh.png)
+
 ### Preview Renders
 
 As a preview of the model, following renders were created.
