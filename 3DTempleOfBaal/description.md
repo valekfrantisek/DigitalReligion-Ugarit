@@ -21,7 +21,7 @@ This work has been presented at EASR 2023 in Vilnius (*20th Annual Conference of
 
 ### Unreal Engine Implementation
 
-[![Temple of Ugarit in Unreal Engine](  )](https://youtu.be/k8HUyTk0joc)
+[![Temple of Ugarit in Unreal Engine](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/ToB_UE_YouTube_img.png)](https://youtu.be/k8HUyTk0joc)
 
 
 mention Quixel Bridge
