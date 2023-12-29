@@ -14,6 +14,12 @@ The model has been created using free and open source software [Blender](https:/
 
 Materials and textures for the model were taken from [Poly Haven](https://polyhaven.com/) repository. This repository is also open source and therefore freely reusable. However, these materials must remain only provisional, as they do not correspond with the ancient reality. More work is needed in order to create textures and materials that would better reflect the material reality of ancient Ugarit and the Eastern Mediterranean.
 
+## Renders
+
+As a preview of the model, following renders were created.
+
+
+
 ## Presentation of the model
 
 This work has been presented at EASR 2023 in Vilnius (*20th Annual Conference of the European Association for the Study of Religions*) in presentation titled *Towards Visualizing Religion - Three Cases from Ancient Ugarit*.
@@ -91,9 +97,9 @@ There are two basic reasons for this identification. Firstly, several stelae (e.
 
 CALLOT, Olivier 1983. *Une maison à Ougarit: Étude d’architecture domestique.* Paris, ERC.
 
-CALLOT, Olivier 1994. *La tranchée “ Ville Sud ”, Études d’architecture domestique.* Paris: ERC.
+--. 1994. *La tranchée “ Ville Sud ”, Études d’architecture domestique.* Paris: ERC.
 
-CALLOT, Olivier 2011. *Les sanctuaires de l’acropole d’Ougarit, Les temples de Baal et de Dagan.* RSO XIX. Lyon: Maison de l’Orient et de la Méditerranée.
+--. Olivier 2011. *Les sanctuaires de l’acropole d’Ougarit, Les temples de Baal et de Dagan.* RSO XIX. Lyon: Maison de l’Orient et de la Méditerranée.
 
 SCHAEFFER, Claude F.–A. 1929. Les fouilles de Minet-El-Beida et de Ras Shamra (campagnes du printemps 1929). *Syria* 10/4: 285–297.
 
