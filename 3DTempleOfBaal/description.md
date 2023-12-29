@@ -111,7 +111,7 @@ CALLOT, Olivier 1983. *Une maison à Ougarit: Étude d’architecture domestique
 
 --. 1994. *La tranchée “ Ville Sud ”, Études d’architecture domestique.* RSO X. Paris: ERC.
 
---. Olivier 2011. *Les sanctuaires de l’acropole d’Ougarit, Les temples de Baal et de Dagan.* RSO XIX. Lyon: Maison de l’Orient et de la Méditerranée.
+--. 2011. *Les sanctuaires de l’acropole d’Ougarit, Les temples de Baal et de Dagan.* RSO XIX. Lyon: Maison de l’Orient et de la Méditerranée.
 
 HAYDAR, Jamal, et al. 2013. Rapport préliminaire sur les activités de la mission archéologique syro-française de Ras Shamra – Ougarit en 2009 et 2010 (69e et 70e campagnes). *Syria* 90: 439–478.
 
@@ -137,6 +137,6 @@ YON, Marguerite, Pierre LOMBARD & Margo RENISO 1987. L’organisation de l’hab
 
 For images in [the images directory](https://github.com/valekfrantisek/DigitalReligion-Ugarit/tree/main/3DTempleOfBaal/images), the following sources are relevant:
 
-[The plan of Sacred Places at Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/sacred_places_map.png) has been drawn by the author after several sources, namely: Yon 2006: figs. 1, 18, 20, 25, 30, 33, 37, and 44, Haydar et al.: fig. 1, figures in Callot 1994, Callot 2011: figs. 28 and 58, RSO Matoïan 2021: fig. 2, and a satellite image of the site from [Mapy.cz](https://mapy.cz/) from May 2020.
+[The plan of Sacred Places at Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/sacred_places_map.png) has been drawn by the author after several sources, namely: Yon 2006: figs. 1, 18, 20, 25, 30, 33, 37, and 44, Haydar et al.: fig. 1, figures in Callot 1994, Callot 2011: figs. 28 and 58, Matoïan 2021: fig. 2, and a satellite image of the site from [Mapy.cz](https://mapy.cz/) from May 2020.
 
 [Schematic plan of the Temple of Baˁal](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/Temple%20of%20Baal_plan.png) has been drawn by the author after Callot 2011: fig. 28.

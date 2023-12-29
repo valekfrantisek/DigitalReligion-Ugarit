@@ -1,7 +1,15 @@
 # DigitalReligion-Ugarit
 This is a repository for DH research of rleigion at Ugarit
 
+## Projects
+
+This repository includes following (sub)projects
+
+1. [3D reconstruction of the Temple of Baˁal](https://github.com/valekfrantisek/DigitalReligion-Ugarit/tree/main/3DTempleOfBaal)
+
 ## Archaeological zones of Ugarit
+
+Some projects refer in their data to particular places located at Ugarit. The following figure serves for better orientation.
 
 ![the plan of the archaeological zones of Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/images/Tell_topography_plan.png)
 
@@ -45,4 +53,16 @@ This is a repository for DH research of rleigion at Ugarit
 
 For images in [the images directory](https://github.com/valekfrantisek/DigitalReligion-Ugarit/tree/main/images), the following sources are relevant:
 
-[The base plan of Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/images/Ugarit_base_plan.png) has been drawn by the author after several sources, namely: Yon 2006: figs. 1, 18, 20, 25, 30, 33, 37, and 44, Haydar et al.: fig. 1, figures in Callot 1994, Callot 2011: figs. 28 and 58, RSO Matoïan 2021: fig. 2, and a satellite image of the site from [Mapy.cz](https://mapy.cz/) from May 2020. The same applies to [the plan of the archaeological zones of Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/images/Tell_topography_plan.png)
+*[The base plan of Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/images/Ugarit_base_plan.png) has been drawn by the author after several sources, namely: Yon 2006: figs. 1, 18, 20, 25, 30, 33, 37, and 44, Haydar et al.: fig. 1, figures in Callot 1994, Callot 2011: figs. 28 and 58, Matoïan 2021: fig. 2, and a satellite image of the site from [Mapy.cz](https://mapy.cz/) from May 2020. The same applies to [the plan of the archaeological zones of Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/images/Tell_topography_plan.png)
+
+## Bibliography
+
+CALLOT, Olivier 1994. *La tranchée “ Ville Sud ”, Études d’architecture domestique.* RSO X. Paris: ERC.
+
+--. *Les sanctuaires de l’acropole d’Ougarit, Les temples de Baal et de Dagan.* RSO XIX. Lyon: Maison de l’Orient et de la Méditerranée.
+
+HAYDAR, Jamal, et al. 2013. Rapport préliminaire sur les activités de la mission archéologique syro-française de Ras Shamra – Ougarit en 2009 et 2010 (69e et 70e campagnes). *Syria* 90: 439–478.
+
+MATOÏAN, Valérie (ed.) 2021. *Ougarit, un anniversaire. Bilans et recherches en cours.* RSO XXVIII Leuven: Peeters.
+
+YON, Marguerite 2006. *The City of Ugarit at Tell Ras Shamra.* Winona Lake, Indiana: Eisenbrauns.
