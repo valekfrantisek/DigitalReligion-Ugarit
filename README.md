@@ -1,5 +1,5 @@
 # DigitalReligion-Ugarit
-This is a repository for DH research of rleigion at Ugarit
+This is a repository for DH research of religion at Ugarit.
 
 ## Projects
 
