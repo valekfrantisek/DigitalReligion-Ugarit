@@ -1,6 +1,6 @@
 # 3D Reconstruction of the Temple of Baˁal at Ugarit
 
-This part of repository is dedicated to the 3D reconstruction of the Temple of Baal located at the Acropolis of Ugarit (TB in the plan)
+This part of repository is dedicated to the 3D reconstruction of the Temple of Baal located at the Acropolis of Ugarit (TB in the plan; see also the [plan of the archaeological zones](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/README.md#archaeological-zones-of-ugarit) at Ugarit)
 
 ![Plan of the Sacred Places at Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/sacred_places_map.png)
 
