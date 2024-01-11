@@ -1,0 +1,1 @@
+# Ugarit Texts Database
