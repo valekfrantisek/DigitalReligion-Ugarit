@@ -143,3 +143,10 @@ For images in [the images directory](https://github.com/valekfrantisek/DigitalRe
 [The plan of Sacred Places at Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/sacred_places_map.png) has been drawn by the author after several sources, namely: Yon 2006: figs. 1, 18, 20, 25, 30, 33, 37, and 44, Haydar et al.: fig. 1, figures in Callot 1994, Callot 2011: figs. 28 and 58, Matoïan 2021: fig. 2, and a satellite image of the site from [Mapy.cz](https://mapy.cz/) from May 2020.
 
 [Schematic plan of the Temple of Baˁal](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/3DTempleOfBaal/images/Temple%20of%20Baal_plan.png) has been drawn by the author after Callot 2011: fig. 28.
+
+## Author references
+
+František Válek
+Department of Philosophy and Religious Studies, Faculty of Arts and Philosophy, University of Pardubice
+frantisek.valek@upce.cz
+ORCID: https://orcid.org/0000-0003-1449-004X 

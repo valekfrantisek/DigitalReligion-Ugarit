@@ -66,3 +66,9 @@ HAYDAR, Jamal, et al. 2013. Rapport préliminaire sur les activités de la missi
 MATOÏAN, Valérie (ed.) 2021. *Ougarit, un anniversaire. Bilans et recherches en cours.* RSO XXVIII Leuven: Peeters.
 
 YON, Marguerite 2006. *The City of Ugarit at Tell Ras Shamra.* Winona Lake, Indiana: Eisenbrauns.
+
+## Author references
+František Válek
+Department of Philosophy and Religious Studies, Faculty of Arts and Philosophy, University of Pardubice
+frantisek.valek@upce.cz
+ORCID: https://orcid.org/0000-0003-1449-004X 
