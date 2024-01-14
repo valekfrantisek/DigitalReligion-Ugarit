@@ -996,7 +996,6 @@
 25.512;House of the Hurrian Priest;;PHI;4135;0.20;s-ak;?;;;;;D 6757;
 24.523;House of the Hurrian Priest;;PH11 (T.;3709;2.18;a-ug;Rel;;;u;1.146;D 6659;
 24.305;House of the Hurrian Priest;;PH11;3709;2.18?;a-;;;;;7.133;D 6635;
-24.277;House of the Hurrian Priest;;PH10?;3681;1.50;a-ug;D,liv;;;u;1.127;D 6613;
 24.282;House of the Hurrian Priest;;PH10?;3681;1.25 ';a-ug;Rel;;;u;1.129;D 6616;
 24.251(A)+24.262+24.265A+24.267+24.275A+24.275B+24.275C+24.275D+24.279+24.283A+24.283B+24.286;House of the Hurrian Priest;;PH10 fosse|PH10;ib.?|ib.|3751|3781|3772|3784|3687;3.45|3.20|3.30|2.90|2.70|1.75;a-ug;Rel;;;u;1.107;D 6593;
 24.245;House of the Hurrian Priest;;PH10 fosse;3772;3.20;a-ug;Rel;;;u;1.101;D 6588;
@@ -1009,21 +1008,6 @@
 24.289;House of the Hurrian Priest;;PH10 fosse;3743;2.30;a-ug;E;;;u;4.727;D 6620;
 24.290;House of the Hurrian Priest;;PH10 fosse;3751;2.70;s-ak;E;;;u;U6,110;D 6621;**
 24.292;House of the Hurrian Priest;;PH10 fosse;3708;1.55;a-ug;E;;;u;4.728;D 6623;
-24.308[B];House of the Hurrian Priest;;PH10 fosse;3732;1.95;a-;D,liv;;;u;7.134;D 6636;
-24.312;House of the Hurrian Priest;;PH10 fosse;3781;3.30;a-ug;D,liv;;;u;1.141;D 6641;
-24.313;House of the Hurrian Priest;;PH10 fosse;3772;3.10;;liv;;;u;U6.114;D 6642;
-24.314;House of the Hurrian Priest;;PH10 fosse;3772;3.20;;liv;;;u;U6.114;D 6643;
-24.316;House of the Hurrian Priest;;PH10 fosse;3751;3.00;;liv;;;u;U6,112-;D 6645;
-24.317;House of the Hurrian Priest;;PH10 fosse;3751;2.90;;liv;;;u;U6,112-;D 6646;
-24.318;House of the Hurrian Priest;;PH10 fosse;3751;;;liv;;;u;U6,112-;D 6647;
-24.320;House of the Hurrian Priest;;PH10 fosse;3772;3.20;;liv;;;u;U6,114;D 6649;
-24.322;House of the Hurrian Priest;;PH10 fosse;3781;3.30;;liv;;;u;U6,114;D 6651;
-24.323;House of the Hurrian Priest;;PH10 fosse;3781;;a-ug;D,liv;;;u;1.142;D 6652;
-24.324;House of the Hurrian Priest;;PH10 fosse;3781;;;liv;;;u;U6,114;D 6653;
-24.325;House of the Hurrian Priest;;PH10 fosse;3687;1.40;;liv;;;u;U6.114;[D 6654];
-24.326;House of the Hurrian Priest;;PH10 fosse;3743;2.30;a-ug;D,liv;;;u;1.143;D 6655;
-24.327;House of the Hurrian Priest;;PH10 fosse;3751;3.00;a-ug;D,liv;;;u;1.144;D 6656;
-24.392;House of the Hurrian Priest;;PH10 fosse;3781;3.55;;liv;;;u;U6,Hó;D 6658;
 24.244;House of the Hurrian Priest;;PH10;3687;1.25;a-ug;M;;;u;1.100;D 6687;
 24.246;House of the Hurrian Priest;;PH10;3701;1.50;a-ug;Rel;;;u;1.102;D 6585;
 24.248;House of the Hurrian Priest;;PH10;3680;1.30;a-ug;Rel;;;u;1.104;D 6590;
@@ -1060,12 +1044,12 @@
 24.302[A];House of the Hurrian Priest;;PH10;3745;;;;;;;;D -;
 24.303;House of the Hurrian Priest;;PH10;3745;;a-ug;E;;;u;4.730;D -;
 24.304;House of the Hurrian Priest;;PH10;3694;1.40;a-ug;E;;;u;4.731;D 6634;
-24.310;House of the Hurrian Priest;;PH10;3687;1.20;;liv;;;u;U6.102;D 6639;
-24.311;House of the Hurrian Priest;;PH10;3687;;;liv;;;u;U6.103;D 6640;
-24.315;House of the Hurrian Priest;;PH10;3745;0.80;;liv;;;u;U6,104;D 6644;
-24.319;House of the Hurrian Priest;;PH10;3694;1.30;;liv;;;u;U6,103;D 6648;
-24.321;House of the Hurrian Priest;;PH10;3701;1.50;;liv;;;u;U6,105;D 6650;
-24.393;House of the Hurrian Priest;;PH10;3759;1.10;;liv;;;u;;;
+24.308[B];House of the Hurrian Priest;;PH10 fosse;3732;1.95;a-;D,liv;;;u;7.134;D 6636;
+24.277;House of the Hurrian Priest;;PH10?;3681;1.50;a-ug;D,liv;;;u;1.127;D 6613;
+24.312;House of the Hurrian Priest;;PH10 fosse;3781;3.30;a-ug;D,liv;;;u;1.141;D 6641;
+24.323;House of the Hurrian Priest;;PH10 fosse;3781;;a-ug;D,liv;;;u;1.142;D 6652;
+24.326;House of the Hurrian Priest;;PH10 fosse;3743;2.30;a-ug;D,liv;;;u;1.143;D 6655;
+24.327;House of the Hurrian Priest;;PH10 fosse;3751;3.00;a-ug;D,liv;;;u;1.144;D 6656;
 24.642A;House of the Hurrian Priest;;PH10;3753;;a-ug;Rel;;;u;1.147;D 6663;
 24.642B;House of the Hurrian Priest;;PH10;3753;;a-ug;;;;;7.135;D -;
 24.642C;House of the Hurrian Priest;;PH10;3753;;a-;;;;;7.136;D -;
