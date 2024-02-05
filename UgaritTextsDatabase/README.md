@@ -12,7 +12,7 @@ TBD
 
 ## Creation of the DB
 
-TBD Prelimanary note: basic sources for the database were RSTI, KTU, SAU, and TEO
+TBD; Prelimanary note: basic sources for the database were RSTI, KTU, SAU, and TEO
 
 ## Selected charts
 
