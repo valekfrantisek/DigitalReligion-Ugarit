@@ -1,6 +1,6 @@
 # Ugarit Texts Database
 
-ADD MAP OF ARCHIVES
+![Plan of the "Archives" of Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/images/Ugarit-main_clusters_of_texts.png)
 
 ## Files description
 
@@ -12,7 +12,7 @@ TBD
 
 ## Selected charts
 
-<div class="flourish-embed flourish-sankey" data-src="visualisation/16353030"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+TBD
 
 ## Sources
 
