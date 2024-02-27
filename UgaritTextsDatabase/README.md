@@ -14,9 +14,20 @@ TBD
 
 TBD; Prelimanary note: basic sources for the database were RSTI, KTU, SAU, and TEO
 
+### Problems with language attribution
+
+The following charts created with Flourish studio illustrate the problems of language attribution according to several basic sources:
+
+- RSTI language designations vs. RSTI language designation according to the object description:
+[![RSTI language designations vs. RSTI language designation according to the object description](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/UgaritTextsDatabase/CHARTS/RSTI_language_flow.png)]([flourish_chart](https://public.flourish.studio/visualisation/16943624/))
+- RSTI language designation vs. SAU language designation:
+[![RSTI language designation vs. SAU language designation](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/UgaritTextsDatabase/CHARTS/RSTI_to_SAU_language_flow.png)]([flourish_chart](https://public.flourish.studio/visualisation/16943966/))
+- RSTI language designation according to the object description vs. SAU language designation:
+[![RSTI language designation according to the object description vs. SAU language designation](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/UgaritTextsDatabase/CHARTS/RSTI_description_to_SAU_language_flow.png)]([flourish_chart](https://public.flourish.studio/visualisation/16943916/))
+
 ## Selected charts
 
-<iframe src="https://public.flourish.studio/visualisation/16943986/" frameborder="0" scrolling="no" style="width: 100%; height: 600px;"></iframe>
+TBD
 
 ## Abbreviations
 
