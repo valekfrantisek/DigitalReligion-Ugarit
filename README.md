@@ -6,6 +6,7 @@ This is a repository for DH research of religion at Ugarit.
 This repository includes following (sub)projects
 
 1. [3D reconstruction of the Temple of Baˁal](https://github.com/valekfrantisek/DigitalReligion-Ugarit/tree/main/3DTempleOfBaal)
+2. [Database of texts from Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/tree/main/UgaritTextsDatabase)
 
 ## Archaeological zones of Ugarit
 
