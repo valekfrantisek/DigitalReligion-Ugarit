@@ -1,5 +1,7 @@
 # Ugarit Texts Database
 
+The current version of the database is also available at [Zenodo](https://zenodo.org/doi/10.5281/zenodo.12820381)
+
 ![Plan of the "Archives" of Ugarit](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/images/Ugarit-main_clusters_of_texts.png)
 
 Plan of Ugarit, highlighting the most important clusters of texts; RP = Royal Palace; PY = Palace of Yabnīnu; BPs = between Royal Palace and Palace of Yabnīnu; Ršp = House of Rašapabu; LH = Literate’s House; Rpn = House of Rapānu; U = House of Urtēnu; LT = House of the Literary Tablets; HP = House of the High Priest; HurrP = House of the Hurrian Priest; Lam = Lamaštu Archive.
