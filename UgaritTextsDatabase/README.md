@@ -20,12 +20,12 @@ TBD; Prelimanary note: basic sources for the database were RSTI, KTU, SAU, and T
 
 The following charts created with Flourish studio illustrate the problems of language attribution according to several basic sources:
 
-- RSTI language designations vs. RSTI language designation according to the object description:
-[![RSTI language designations vs. RSTI language designation according to the object description](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/UgaritTextsDatabase/CHARTS/RSTI_language_flow.png)]([flourish_chart](https://public.flourish.studio/visualisation/16943624/))
-- RSTI language designation vs. SAU language designation:
-[![RSTI language designation vs. SAU language designation](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/UgaritTextsDatabase/CHARTS/RSTI_to_SAU_language_flow.png)]([flourish_chart](https://public.flourish.studio/visualisation/16943966/))
-- RSTI language designation according to the object description vs. SAU language designation:
-[![RSTI language designation according to the object description vs. SAU language designation](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/UgaritTextsDatabase/CHARTS/RSTI_description_to_SAU_language_flow.png)]([flourish_chart](https://public.flourish.studio/visualisation/16943916/))
+- RSTI language designations vs. RSTI language designation according to the object description [chart in Flourish - responsive]([flourish_chart](https://public.flourish.studio/visualisation/16943624/)):
+[RSTI language designations vs. RSTI language designation according to the object description](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/UgaritTextsDatabase/CHARTS/RSTI_language_flow.png)
+- RSTI language designation vs. SAU language designation [chart in Flourish - responsive](https://public.flourish.studio/visualisation/16943966/):
+[RSTI language designation vs. SAU language designation](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/UgaritTextsDatabase/CHARTS/RSTI_to_SAU_language_flow.png)
+- RSTI language designation according to the object description vs. SAU language designation [chart in Flourish - responsive](https://public.flourish.studio/visualisation/16943916/):
+[RSTI language designation according to the object description vs. SAU language designation](https://github.com/valekfrantisek/DigitalReligion-Ugarit/blob/main/UgaritTextsDatabase/CHARTS/RSTI_description_to_SAU_language_flow.png)
 
 ## Selected charts
 
